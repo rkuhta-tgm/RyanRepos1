@@ -1,10 +1,10 @@
 
 public class Test1 {
 	public static void gutenTag(){
-		System.out.println("Das hier ist die zweite Version");
+		System.out.println("Diese Aufgabe ist total cool");
 	}
 	public static void aufWiederSehen(){
-		System.out.print("Aus spaﬂ zweite Version");
+		System.out.print("Habe echt eine spaﬂ");
 	}
 	public static void main (String[] args) {
 		gutenTag();
